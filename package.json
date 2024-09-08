@@ -1,0 +1,28 @@
+{
+  "name": "birthday",
+  "version": "1.0.0",
+  "description": "Birthday greetings..",
+  	
+  "homepage": "https://nquockhanh0209.github.io/demo-deploy-github-pages/",
+
+  "main": " ",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayusharma/birthday.git"
+  },
+  "keywords": [
+    "Birthday"
+  ],
+  "author": "Ayush Sharma",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/ayusharma/birthday/issues"
+  },
+  "homepage": "https://github.com/ayusharma/birthday#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
